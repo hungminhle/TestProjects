@@ -10,7 +10,7 @@ namespace MovieStore.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View();//test
         }
 
         public ActionResult About()
