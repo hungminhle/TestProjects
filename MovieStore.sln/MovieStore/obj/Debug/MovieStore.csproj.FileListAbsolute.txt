@@ -83,6 +83,5 @@ C:\TestProjects\MovieStore.sln\MovieStore\bin\Microsoft.Owin.Security.OAuth.xml
 C:\TestProjects\MovieStore.sln\MovieStore\bin\Microsoft.Owin.Security.Google.xml
 C:\TestProjects\MovieStore.sln\MovieStore\bin\Microsoft.Owin.Security.Twitter.xml
 C:\TestProjects\MovieStore.sln\MovieStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\TestProjects\MovieStore.sln\MovieStore\obj\Debug\MovieStore.csprojResolveAssemblyReference.cache
 C:\TestProjects\MovieStore.sln\MovieStore\obj\Debug\MovieStore.dll
 C:\TestProjects\MovieStore.sln\MovieStore\obj\Debug\MovieStore.pdb
